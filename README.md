@@ -57,7 +57,3 @@ Replace `your_question` with the query for which you want to find and download p
 - sentence-transformers
 - transformers
 - faiss
-
----
-
-このテンプレートをプロジェクトのルートディレクトリに`README.md`として保存して、必要に応じて修正や追加を行ってください。プロジェクトの説明や、使用技術、ディレクトリ構造などの詳細な情報を追加すると、他の開発者がプロジェクトを理解しやすくなります。
