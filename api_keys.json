@@ -1,0 +1,4 @@
+{
+    "OPENAI_API_KEY": "your_openai_api_key",
+    "SEMANTIC_SCHOLAR_API_KEY": "your_semantic_scholar_api_key"
+}

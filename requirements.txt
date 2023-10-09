@@ -1,0 +1,8 @@
+requests
+shutil
+os
+json
+openai
+sentence-transformers
+transformers
+faiss-cpu  # CPUバージョン。GPUサポートが必要な場合は、`faiss-gpu`に変更してください。
