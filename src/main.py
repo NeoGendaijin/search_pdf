@@ -1,4 +1,3 @@
-
 from .get_api_key import get_api_keys
 from .query_gen import generate_search_query
 from .semantic_scholar import search_papers
@@ -8,7 +7,7 @@ from .download_arXiv import download_from_arxiv_id
 
 def download_relevent_papers(input, save_dir):
     #API keys
-    api_keys = get_api_keys("./api_keys1.json")
+    api_keys = get_api_keys("./api_keys.json")
     openai_api_key = api_keys["OPENAI_API_KEY"]
     ss_api_key = api_keys["SEMANTIC_SCHOLAR_API_KEY"]
 
